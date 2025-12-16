@@ -1,0 +1,5 @@
+{
+  "name": "Bible Study App",
+  "description": "A modern, user-friendly Bible study application designed to help users deepen their faith. It features book and chapter selection, a text viewer with customization options like dark mode and font size adjustment, note-taking, and sharing capabilities.",
+  "requestFramePermissions": []
+}
